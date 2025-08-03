@@ -195,23 +195,6 @@ Pinia stores untuk:
 - FAQ management
 - Testimonials management
 
-## 🧪 Testing
-
-### Manual Testing Checklist
-- [ ] Homepage loading dan responsive
-- [ ] Navigation antar halaman
-- [ ] Form kontak submission
-- [ ] Admin login functionality
-- [ ] CRUD operations di admin panel
-- [ ] Mobile responsiveness
-- [ ] Cross-browser compatibility
-
-### Performance Testing
-- [ ] Lighthouse score > 90
-- [ ] Fast loading times
-- [ ] Optimized images
-- [ ] Minimal bundle size
-
 ## 🔐 Security
 
 ### Authentication
@@ -233,7 +216,7 @@ Untuk pertanyaan teknis atau support:
 
 ## 📄 License
 
-© 2024 PT. Inovasi Digital Nusantara. All rights reserved.
+© 2024 Potydev. All rights reserved.
 
 ---
 
